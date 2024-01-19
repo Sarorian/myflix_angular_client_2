@@ -25,17 +25,10 @@ Welcome to MovieApiAngularClient, a portfolio project showcasing my skills in bu
 3. Run the development server: `ng serve`
 4. Navigate to http://localhost:4200/ to view the application.
 
-## Deployment
-
-Deploy the application using the following command:
-
-```bash
-npx angular-cli-ghpages --dir=dist/movie-api-angular-client
-```
-
 ## Author
 
-- **Sean Andrew Stanek**
+- **Owen Wilson**
+- Thanks to Sean Andrew Stanek for the source code that I adopted
 
 ## License
 
