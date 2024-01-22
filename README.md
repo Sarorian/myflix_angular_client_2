@@ -7,6 +7,12 @@ This project serves as a client for the Movie API, displaying movie data with a 
 - **Angular Version**: 17.0.5
 - **Angular CLI Version**: 17.0.5
 
+## Features
+
+- Ability to see various movies from a database
+- Favorite movies and see them in your profile
+- See similar movies by genre and director
+- Saved and hashed profiles
 
 ## Getting Started
 
