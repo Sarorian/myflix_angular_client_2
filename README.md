@@ -29,3 +29,5 @@ This project serves as a client for the Movie API, displaying movie data with a 
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
+Hosted at https://sarorian.github.io/myflix_angular_client_2/welcome
